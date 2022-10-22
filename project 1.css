@@ -1,0 +1,457 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*.new{
+    background-color: rgba(0, 0, 0, 0.935);
+    color: white;
+}*/
+body{
+
+    background-color: rgba(0, 0, 0, 0.935) ;
+}
+.ar{
+
+   float: right;
+   margin-right: 40px;
+   margin-top: 20px;
+}
+a{
+text-decoration: none;
+margin-left:2;
+
+color: white;
+
+}
+
+.ar a{
+margin-right: 40px;
+transition: 0.5s;
+
+}
+.ar a:hover{
+
+    color: red;
+}
+
+#img{
+margin-top:20px ;
+margin-left: 100px;
+}
+#img1{
+
+width: 300px;
+margin-left: 150px;
+margin-top: 30px;
+
+}
+h6{
+color: red;
+float: right;
+margin-right: 45%;
+margin-top: 110px;
+
+}
+.visual{
+    color: white;
+    font-weight: 900;
+    font-size: 22px;
+   
+}
+p{
+color: rgba(255, 255, 255, 0.698);
+padding-left: 460px;
+margin-top: -23%;
+
+}
+.A1{
+color:rgb(255, 255, 255);
+border: 2px  red solid;
+background-color: red;
+float: right;
+margin-right: 48%;
+width:80px;
+padding: 9px;
+text-align: center;
+transition: 0.5s;
+}
+.about{
+font-size: 10px;
+
+
+}
+.A1:hover{
+
+background-color: transparent;
+border: 2px red solid;
+
+}
+.ar1{
+width:500px;
+height: 600px;
+background-color:rgb(0, 0, 0) ;
+margin-top: 170px;
+padding-top: 30px;
+}
+.div1{
+
+width:250px ;
+height: 250px;
+background-color:  rgb(33, 29, 29) ;
+color: red;
+margin: 150px;
+
+}
+.div1 .know{
+
+    margin-left: 30px;
+}
+.div1 h5,h2{
+
+    color: wheat;
+    margin-left: 30px;
+}
+.div1,img,h5,h2{
+margin-top: 20px;
+
+}
+.div2{
+   
+
+    width:250px ;
+    height: 250px;
+    background-color:  rgba(246, 38, 38, 0.798) ;
+    color: rgb(255, 255, 255);
+    margin: 150px;
+    margin-top: -399px;
+    margin-left: 90%;
+
+}
+.div2 .know1,h5, h2{
+
+    margin-left: 30px;
+}
+.div3{
+    width:250px ;
+    height: 250px;
+    background-color:  rgb(33, 29, 29) ;
+    color: red;
+    margin: 150px;
+    margin-top: -402px;
+    margin-left: 150%;
+}
+.div3 h5,h2{
+
+    color: wheat;
+    margin-left: 30px;
+}
+.div3 .know{
+
+    margin-left: 30px;
+}
+.div4{
+
+    width:250px ;
+    height: 250px;
+  
+    color: rgb(255, 255, 255);
+    margin: 150px;
+    
+}
+.div4 h1{
+
+color: red;
+font-size: 90px;
+
+}
+.div4 h5{
+margin-top: 3px;
+    margin-left: -9px;
+}
+.div5{
+
+    width:250px ;
+    height: 120px;
+    background-color:  rgb(33, 29, 29) ;
+    color: rgba(240, 216, 216, 0.702);
+    margin: 150px;
+    margin-top: -500px;
+    margin-left: 93%;
+
+}
+.div5 h1 {
+color: red;
+padding-top: 20px;
+
+}
+.div5 h5{
+
+    margin-left:1%;
+}
+.div6{
+
+    width:250px ;
+    height: 120px;
+    background-color:  rgb(33, 29, 29) ;
+    color: rgba(240, 216, 216, 0.702);
+    margin: 150px;
+    margin-top: -130px;
+    margin-left: 93%;
+
+}
+.div6 h1 {
+color: red;
+padding-top: 20px;
+
+}
+.div6 h5{
+
+    margin-left:1%;
+}
+.div7{
+
+    width:250px ;
+    height: 120px;
+    background-color:  rgb(33, 29, 29) ;
+    color: rgba(240, 216, 216, 0.702);
+    margin: 150px;
+    margin-top: -411px;
+    margin-left: 148%;
+
+}
+.div7 h1 {
+color: red;
+padding-top: 20px;
+
+}
+.div7 h5{
+
+    margin-left:1%;
+}
+.div8{
+
+    width:250px ;
+    height: 120px;
+    background-color:  rgb(33, 29, 29) ;
+    color: rgba(240, 216, 216, 0.702);
+    margin: 150px;
+    margin-top: -130px;
+    margin-left: 148%;
+
+}
+.div8 h1 {
+color: red;
+padding-top: 20px;
+
+}
+.div8 h5{
+
+    margin-left:1%;
+}
+
+.sit h5 {  
+    color: rgba(188, 166, 166, 0.756);
+    
+}
+h2, h5{
+margin-left: 15%;
+
+}
+.A2{
+
+    color:rgb(255, 255, 255);
+    border: 2px  red solid;
+    background-color: red;
+    float: right;
+    
+    width:80px;
+    padding: 9px;
+    text-align: center;
+    transition: 0.5s;
+   
+
+}
+.A2:hover{
+
+    background-color: transparent;
+    border: 2px red solid;
+
+}
+.div9{
+
+    width:400px ;
+    height: 250px;
+    background-color:  rgb(33, 29, 29) ;
+   
+    margin: 150px;
+  
+
+}
+.div10{
+    width:400px ;
+    height: 250px;
+    background-color:  rgb(33, 29, 29) ;
+    margin: 150px;
+    margin-top: -399px;
+    margin-left: 55%;
+}
+.div11{
+
+color: white;
+margin-top: -12%;
+font-size: 20px;
+}
+.div11 .know2{
+color: red;
+margin-left: 16%;
+
+
+}
+.div12{
+
+ color: white;
+ margin-top: -7%;
+ font-size: 20px;
+ margin-left: 50%;
+ }
+ .div12 .know3{
+ color: red;
+ margin-left: 16%;
+ 
+ }
+ .hoome{
+
+    background-color: black;
+    height:400px ;
+    margin-top:20%;
+ }
+ .div13{
+     width:400px ;
+     height: 250px;
+     background-color:  rgb(33, 29, 29) ;
+    
+     margin: 150px;
+     margin-top:-49% ;
+ 
+ }
+ .div14{
+     width:400px ;
+     height: 250px;
+     background-color:  rgb(33, 29, 29) ;
+     margin: 150px;
+     margin-top: -400px;
+     margin-left: 55%;
+ }
+ .div15{
+     color: white;
+     margin-top: -12%;
+     font-size: 20px;
+     }
+     .div15 .know2{
+     color: red;
+     margin-left: 16%;
+     
+        
+        }
+.div16{
+        
+     color: white;
+     margin-top: -7%;
+     font-size: 20px;
+     margin-left: 50%;
+     }
+     .div16 .know3{
+     color: red;
+     margin-left: 16%;
+            
+ }
+.arti{
+
+height: 150px;
+margin-top: 20%;
+}
+.div17{
+
+    width:700px ;
+     height: 140px;
+     background-color:  rgb(33, 29, 29) ;
+    margin-top: -8%;
+    text-align: left;
+    padding: 10px;
+  
+
+}
+.div17 h5{
+    color: rgb(139, 125, 125);
+
+margin-left: -0px;
+padding-left: 10px;
+}
+.div17 h2{
+
+    margin-left: -0px;
+padding-left: 10px;
+}
+.A3{
+
+    color:rgb(255, 255, 255);
+    border: 2px  red solid;
+    background-color: red;
+    float: right;
+    margin-right: 10%;
+    
+    width:80px;
+    padding: 9px;
+    text-align: center;
+    margin-top: 10%;
+    transition: 0.5s;
+   
+
+}
+.A3:hover{
+
+    background-color: transparent;
+    border: 2px red solid;
+
+}
+.div18{
+
+    margin-top: 60px;
+}
+.div18 .art{
+padding-left: 36%;
+
+}
+.pro{
+    transition: 0.5s;
+}
+.pro:hover{
+color: red;
+
+}
+footer{
+background-color: black;
+height: 100px;
+margin-top:25px ;
+color: white;
+}
+footer a {
+margin:20px ;
+
+}
+
+.by{
+
+    float: right;
+    margin-top:-35px ;
+    margin-right:100px ;
+}
+.by1{
+
+    color: red;
+}
+footer img{
+
+
+    
+}
